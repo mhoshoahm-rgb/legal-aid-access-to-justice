@@ -1,0 +1,6 @@
+{
+  "name": "Legal Aid & Access to Justice Portal",
+  "description": "An accessible, educational legal information and access-to-justice platform helping users understand legal issues, rights, practical next steps, and official legal-aid resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
